@@ -1,8 +1,8 @@
-# Glowing Skeleton
+# Kinect Skeletal tracking
 
 ## Description
 
-The **Glowing Skeleton** is a real-time interactive Python application that uses a combination of OpenCV, MediaPipe, and Pygame to detect and animate a glowing skeleton with face landmarks. This application captures the video feed from a webcam, detects human pose landmarks and facial landmarks, and visualizes them with a glowing effect in an animated skeleton form on the screen.
+The **Kinect Skeletal tracking** is a real-time interactive Python application that uses a combination of OpenCV, MediaPipe, and Pygame to detect and animate a glowing skeleton with face landmarks. This application captures the video feed from a webcam, detects human pose landmarks and facial landmarks, and visualizes them with a glowing effect in an animated skeleton form on the screen.
 
 ## Features
 - **Pose Detection**: Uses MediaPipe to detect the human body pose and draw key body points and connections (e.g., head, shoulders, elbows, knees, ankles).
